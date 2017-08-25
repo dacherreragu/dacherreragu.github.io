@@ -44,7 +44,7 @@ paginate = 5
 	
 	[[params.navlinks]]
 	name = "Blog"
-	url = ""
+	url = "https://www.facebook.com/herreradavid95"
 	
 	[[params.navlinks]]
 	name = "Tutorials"
