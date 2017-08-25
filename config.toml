@@ -40,11 +40,10 @@ paginate = 5
 	url = "https://plus.google.com/u/0/102807352685138209097"
 	[[params.navlinks]]
 	name = "About"
-	url = "about"
-	
+	url = "file:///home/david/Workdir/dacherreragu.github.io/about.html"
 	[[params.navlinks]]
 	name = "Blog"
-	url = "https://www.facebook.com/herreradavid95"
+	url = ""
 	
 	[[params.navlinks]]
 	name = "Tutorials"
